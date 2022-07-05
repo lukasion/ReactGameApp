@@ -5,3 +5,7 @@ This project is a basic app to start developing programming skills in React.js f
 Started in July 2022, based on the official documentation of the authors of the library.
 
 Pure React.js without any kind of REST API or various technologies such as SCSS or similiar.
+
+### Credits
+
+The app was developed by Łukasz Fujarski (lukasion). All rights reserved.
